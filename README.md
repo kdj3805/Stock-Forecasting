@@ -33,7 +33,7 @@ All outputs are visualized using clean and intuitive Matplotlib charts.
 ```
 
 stock-forecasting/
-├── arima\_&\_sarima.py       # Combined ARIMA & SARIMA forecasting
+├── arima_&_sarima.py       # Combined ARIMA & SARIMA forecasting
 ├── prophet.py              # Prophet-based forecasting
 ├── LSTM.py                 # LSTM-based forecasting
 └── README.md               # Project documentation
